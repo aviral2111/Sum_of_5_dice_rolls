@@ -1,0 +1,5 @@
+E:\Sum of Dice Roll\Sum of 5 dice rolls\Sum of 5 dice rolls\bin\Debug\Sum of 5 dice rolls.exe.config
+E:\Sum of Dice Roll\Sum of 5 dice rolls\Sum of 5 dice rolls\bin\Debug\Sum of 5 dice rolls.exe
+E:\Sum of Dice Roll\Sum of 5 dice rolls\Sum of 5 dice rolls\bin\Debug\Sum of 5 dice rolls.pdb
+E:\Sum of Dice Roll\Sum of 5 dice rolls\Sum of 5 dice rolls\obj\Debug\Sum of 5 dice rolls.exe
+E:\Sum of Dice Roll\Sum of 5 dice rolls\Sum of 5 dice rolls\obj\Debug\Sum of 5 dice rolls.pdb
